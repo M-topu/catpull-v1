@@ -38,15 +38,15 @@
 
 ## 平台速览
 
-<img src="1" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="1.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
 <img src="2.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="3" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="3.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="4" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="4.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="5" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="5.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
 <img src="6.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
@@ -54,8 +54,8 @@
 
 <img src="8.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="9" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="9.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
 ## 反馈交流群
 
-<img src="qq-qr" alt style="width: 20%;">
+<img src="qq-qr.jpg" alt style="width: 20%;">
