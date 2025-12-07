@@ -38,35 +38,24 @@
 
 ## 平台速览
 
-<img src="./static/home.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="1" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./static/wechat-home.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="2.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./static/wechat.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="3" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./static/ContainerWidget.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="4" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./static/HotSpotImgWidget.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="5" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./static/wechat-form.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="6.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./static/questionnaire-style.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="7.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./static/questionnaire-report.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="8.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="./static/article.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-
-<img src="./static/form.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-
-<img src="./static/form-list.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-
-<img src="./static/form-detail.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-
-<img src="./static/use-form.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-
-<img src="./static/user-form-list.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-
+<img src="9" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
 ## 反馈交流群
 
-<img src="./static/qr-wechat.png" alt style="width: 20%;">
+<img src="qq-qr" alt style="width: 20%;">
