@@ -1,41 +1,36 @@
 <p align="center">
   <a href="https://www.catpull.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="OpenTiny Logo" src="logo.svg" height="100" style="max-width:100%;">
+    <img alt="Logo" src="logo.svg" height="100" style="max-width:100%;">
   </a>
 </p>
 <p align="center">
   猫拽 - 猫码轻拽，即建即用！
 </p>
-<p align="center">一个人开发的UniApp低代码平台，猫拽低代码致力于为开发者提供高效、便捷的应用开发体验。平台采用可视化拖拽操作构建uniApp应用，无需复杂编码，即可快速构建小程序、H5和APP应用。都能通过猫拽实现快速开发和迭代。 核心功能包括可视化工作流、海量组件库、多场景模板支持等。后端采用分布式微服务架构，确保服务稳定可靠。  </p>
-
-
-
-# catpull-v1
-
-
-<p align="center">
-  <img style='width:50px' src="./static/logo.png" />
-</p>
-<p align="center">
- <img style='margin:0 5px' src='https://badgen.net/github/stars/wangyuan389/yunda'>
- <img style='margin:0 5px' src='https://badgen.net/github/forks/wangyuan389/yunda'>
- <img style='margin:0 5px' src='https://img.shields.io/badge/version-1.1.1-686480.svg'>
- <img style='margin:0 5px' src='https://img.shields.io/badge/code%20style-standard-7986d0.svg'> 
-</p>
-
-<p align="center">
-  云搭万物，触手可及！
-</p>
-
-<p align="center">
-  零代码搭建小程序、H5、问卷、图文文章
-</p>
 
 ## 介绍
 
-云搭是一款功能强大、开源、免费的可视化搭建解决方案，它支持零代码搭建小程序、H5、问卷、图文等多种应用，我致力于提供一套简单、便捷、专业、可靠的多场景零代码平台。
+一个人开发的UniApp低代码平台，猫拽低代码致力于为开发者提供高效、便捷的应用开发体验。平台采用可视化拖拽操作构建uniApp应用，无需复杂编码，即可快速构建小程序、H5和APP应用。都能通过猫拽实现快速开发和迭代。 核心功能包括可视化工作流、海量组件库、多场景模板支持等。后端采用分布式微服务架构，确保服务稳定可靠。 
 
-技术栈前端为vue3，后端基于node进行开发
+技术栈前端为vue，后端基于node进行开发
+
+- 零门槛开发
+采用可视化拖拽界面设计，无需编程基础即可快速构建uniApp应用。操作逻辑直观，降低传统开发的学习曲线。
+
+- 全端适配能力
+一套设计同步输出小程序、H5及原生APP，多端数据与交互行为自动保持一致性，减少重复适配工作。
+
+- 高效资源管理
+集成COS存储服务，提供图片、视频等多媒体资源的云端托管能力，支持一键调用与动态加载。
+
+- 可视化逻辑编排
+独创节点式工作流系统，通过图形化连接实现复杂业务逻辑，支持实时调试与执行路径追踪，提升代码可维护性。
+
+- 多端数据统计
+记录用户访问路径、设备激活量、应用启动频次及单次使用时长等核心指标。数据采集覆盖小程序、H5及APP全端适配。
+
+- 全场景支持
+一套设计可同时输出小程序、H5和APP应用。不同终端间的数据和行为保持高度一致，大幅降低多端适配成本。
+
 
 ## 线上平台
 
