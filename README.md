@@ -38,24 +38,24 @@
 
 ## 平台速览
 
-<img src="1.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/1.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="2.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/2.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="3.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/3.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="4.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/4.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="5.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/5.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="6.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/6.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="7.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/7.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="8.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/8.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
-<img src="9.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="./static/9.jpg" alt style="display: block; margin: 0 auto; max-width: 100%;">
 
 ## 反馈交流群
 
-<img src="qq-qr.jpg" alt style="width: 20%;">
+<img src="./static/qq-qr.jpg" alt style="width: 20%;">
